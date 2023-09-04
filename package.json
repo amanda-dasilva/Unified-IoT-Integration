@@ -1,0 +1,23 @@
+{
+  "name": "project-amanda-dsilva",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Amanda da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "johnny-five": "^2.1.0",
+    "mongodb": "^4.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
